@@ -11,7 +11,7 @@
 המשחק נהיה קשה עם הופעת שדים חדשים.  
 פלטפורמה: מחשב.
 
-<img width="967" height="808" alt="image" src="https://github.com/user-attachments/assets/e2229f55-36ef-487a-b2e8-ea954e88b09f" />
+<img width="501" height="408" alt="image" src="https://github.com/user-attachments/assets/5017c317-f160-4edc-8940-9242879b079f" />
 
 
 יכולות הציור שלי לא מדהימות אך הרעין הוא משחק דו מימד מלמעלה עם כמות גדולה של אויביות התוקפים את השחקן.
